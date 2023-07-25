@@ -33,51 +33,53 @@ Features done and to be done:
 
 ## Installation and Usage 🛠️
 
-1. Clone this repository on your local machine.
+- Clone this repository on your local machine.
 
-2. Make sure you have Node.js and npm installed.
+- Make sure you have Node.js and npm installed.
 
-3. Install dependencies using the following command:
+- Install dependencies using the following command:
 
 ```bash
 npm install
 ```
 
-4. Configure the Supabase and Prisma database according to the instructions in the configuration files.
+- Configure the Supabase and Prisma database according to the instructions in the configuration files.
 
-5. Start the development server with:
+- Start the development server with:
 
 ```bash
 npm run dev
 ```
 
-6. Visit http://localhost:5173 in your browser to access DevFlix!
+- Visit http://localhost:5173 in your browser to access DevFlix!
 
 ## Contribution 🤝
 
-Thank you for considering contributing to DevFlix! All Pull Requests are welcome ☺🙏 If you want to collaborate, follow these steps:
+Thank you for considering contributing to DevFlix! All Pull Requests are welcome 🤓☝ If you want to collaborate, follow these steps:
 
-1. Create a Fork of this repository.
+- Create a Fork of this repository.
 
-2. Create a branch with your feature or improvement:
+- Create a branch with your feature or improvement:
 
 ```bash
 git checkout -b feature/AmazingFeature
 ```
 
-3. Commit your changes:
+- Commit your changes:
 
 ```bash
 git commit -m 'Add some AmazingFeature'
 ```
 
-4. Push the branch to your fork:
+- Push the branch to your fork:
 
 ```bash
 git push origin feature/AmazingFeature
 ```
 
-5. Open a Pull Request.
+- Open a Pull Request to this repository.
+
+- Done! Your Pull Request will be reviewed as soon as possible. TYSM! 😁
 
 ## License 📄
 
