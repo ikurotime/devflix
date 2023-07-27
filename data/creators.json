@@ -4,5 +4,41 @@
     "name": "ikurotime",
     "video": "https://www.youtube.com/watch?v=9r0r4YjH48w",
     "image": "https://i.ytimg.com/vi/9r0r4YjH48w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjg_6TCN4sEeA8AkoNFXbkE9vxFQ"
+  },
+  {
+    "id": 1,
+    "name": "MatiasBaldanza",
+    "video": "https://www.youtube.com/watch?v=s6cY6duy3Ns",
+    "image": "https://i.ytimg.com/vi/s6cY6duy3Ns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-xeLV30hQ-DTp5pk82KGYd1nJgA"
+  },
+  {
+    "id": 2,
+    "name": "afor_digital",
+    "video": "https://www.youtube.com/watch?v=0O53axlBw8M",
+    "image": "https://i.ytimg.com/vi/0O53axlBw8M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCu9euV3VWBZs1tm2z5piFVJ779LQ"
+  },
+  {
+    "id": 3,
+    "name": "CarlosAzaustre",
+    "video": "https://www.youtube.com/watch?v=chWo9J7AoIs",
+    "image": "https://i.ytimg.com/vi/chWo9J7AoIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmdnRK0iFBMVnEK8V0JJO_deKKCg"
+  },
+  {
+    "id": 4,
+    "name": "MoureDev",
+    "video": "https://www.youtube.com/watch?v=8-IOU3Qlgws",
+    "image": "https://i.ytimg.com/vi/8-IOU3Qlgws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD73JTDPrav-Z1L5SQqZDILYbClqg"
+  },
+  {
+    "id": 5,
+    "name": "Midudev",
+    "video": "https://www.youtube.com/watch?v=NGmIZD2bXsE",
+    "image": "https://i.ytimg.com/an_webp/NGmIZD2bXsE/mqdefault_6s.webp?du=3000&sqp=CIneiqYG&rs=AOn4CLBvHV4MQ1JNoaegZM3G_mLuCpIsPQ"
+  },
+  {
+    "id": 6,
+    "name": "Miriamgonp",
+    "video": "https://www.youtube.com/watch?v=ksQxt_u9yD4",
+    "image": "https://i.ytimg.com/vi/ksQxt_u9yD4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzhD5WrlqQNcDYsw3rs4dBmYiFWA"
   }
 ]
