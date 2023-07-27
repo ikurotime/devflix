@@ -1,6 +1,8 @@
-{
-  "id": 0,
-  "name": "ikurotime",
-  "video": "https://www.youtube.com/watch?v=9r0r4YjH48w",
-  "image": "https://i.ytimg.com/vi/9r0r4YjH48w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjg_6TCN4sEeA8AkoNFXbkE9vxFQ"
-}
+[
+  {
+    "id": 0,
+    "name": "ikurotime",
+    "video": "https://www.youtube.com/watch?v=9r0r4YjH48w",
+    "image": "https://i.ytimg.com/vi/9r0r4YjH48w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjg_6TCN4sEeA8AkoNFXbkE9vxFQ"
+  }
+]
